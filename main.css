@@ -1,6 +1,6 @@
 body {
-	background-color: rgb(255, 255, 255);
-	color: rgb(0, 0, 0);
+	background-color: rgb(31, 30, 30);
+	color: rgb(34, 34, 34);
 }
 h1 {
 	display: flex;
@@ -8,17 +8,15 @@ h1 {
 	font-size: 40px;
 	margin-top: 20px;
 	font-family: 'Nanum Gothic', sans-serif;
-	color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 }
 #myBtn {
 	display: inline-block;
-	align-items: center;
-	justify-content: center;
     height: 35px;
-    width: 100px;
+    width: 175px;
     white-space: nowrap;
     text-align: center;
-    background-color: #eeeeee;
+    background-color: #d6d6d6;
     border-radius: 5px;
 	border: 0px;
 	font-size: 15px;
@@ -26,7 +24,7 @@ h1 {
 #myBtn:hover {
     display: inline-block;
     height: 35px;
-    width: 100px;
+    width: 175px;
     white-space: nowrap;
     text-align: center;
     background-color: #f8f8f8;
@@ -145,13 +143,14 @@ h1 {
 	background-color: rgba(0, 0, 0, 0.4);
 }
 .modal-content {
-	background-color: #fefefe;
+	background-color: #ffffff;
 	margin: 15% auto;
 	padding: 20px;
 	border: 1px solid #888;
 	width: 60%;
 	height: 60%;
 	color: rgb(0, 0, 0);
+	border-radius: 15px;
 }
 .close {
 	color: #aaa;
