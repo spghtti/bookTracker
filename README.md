@@ -1,6 +1,6 @@
 # Colorful book tracker
 
-The first assignment for The Odin Project's full-stack javascript course. The goal was to design a page with a form input that would turn the form data into an object (a book, in this case).
+The first assignment for The Odin Project's full-stack Javascript course. The goal was to design a page with a form input that would turn the form data into an object (a book, in this case).
 
 ## Assignment
 
